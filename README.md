@@ -9,3 +9,7 @@ A simple covid-tracker that was made using reactjs, material-ui, and chartjs
 # API
 
 Source: https://covidtracking.com/data/api
+
+# Reference
+
+https://www.youtube.com/watch?v=khJlrj3Y6Ls
