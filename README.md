@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A simple covid-tracker that was made using reactjs, material-ui, and chartjs 
 
+# Concepts 
+
+- Implemented hooks (useState, useEffect)
+- Learned more about destructuring arrays
+- CSS practices (using modules and import as 'styles')
+- API usage with reactjs | async/await
+- Improved understanding of various react concepts (default constructor, states, practices)
+
 # API
 
 Source: https://covidtracking.com/data/api
